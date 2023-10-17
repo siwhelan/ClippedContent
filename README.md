@@ -14,19 +14,19 @@
 
 1. Clone the repository:
 
-    git clone https://github.com/siwhelan/ClippedContent.git
+        git clone https://github.com/siwhelan/ClippedContent.git
 
 2. Navigate to the project directory:
 
-    cd ClippedContent
+        cd ClippedContent
 
 3. Install the required packages:
 
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 
 4. Set up your `.env` file with your OpenAI API key.
 
 5. Run the script:
 
-   python clippedContent.py
+       python clippedContent.py
 
